@@ -1,12 +1,12 @@
-If you run the program, the first thing it plots is the orgininal 
+If you run the program, the first thing it plots is the original
 data points. 
 
-The second Thing it does is seperate the data into two colors since
+The second Thing it does is separate the data into two colors since
 from just observing the data points we can tell there will be 
-at least two clusters. Since the colors are overlaping neither V1 or V2
+at least two clusters. Since the colors are overlapping, meaning neither V1 or V2
 are being neglected. 
 
-After standerdizing the variables I used the Elbow Method
+After standardizing the variables I used the Elbow Method
 to find the value for K or how many clusters there are in these 
 data sets. The end of the elbow shows 6. K = 6, thus the number of 
 clusters for the optimal value for the data sets are 6. Which can be 
