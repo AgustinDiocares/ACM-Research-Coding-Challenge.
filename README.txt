@@ -25,7 +25,6 @@ CITED WORK
 How to find the Optimal number of Clusters:
 	- https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/
 
-
 existing code:
 	- https://medium.com/code-to-express/k-means-clustering-for-beginners-using-python-from-scratch-f20e79c8ad00
 	
